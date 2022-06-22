@@ -1,8 +1,8 @@
 # 153_086_uasgawebapp
 Cara Instal
-1. Download 153_086_uasgawebapp.rar
+1. Download 153_086_folderwebappdanandroidjson.rar
 2. Setelah selesai di download Extract file rar nya
-3. Masuk Ke folder 153_086_uasgawebapp.rar
+3. Masuk Ke folder 153_086_folderwebappdanandroidjson-main
 4. Setelah masuk Temukan folder 153_086_uasgawebapp Lalu Copy
 5. Cari Folder XAMPP anda lalu pilih folder htdoc lalu pastekan folder 153_086_uasgawebapp di dalam folder htdoc 
 6. aktifkan XAMPP anda lalu buka mozila firefox atau microsoft edge lalu paste kan link berikut http://localhost/phpmyadmin/
