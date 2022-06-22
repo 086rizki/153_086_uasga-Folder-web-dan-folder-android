@@ -9,9 +9,9 @@ Cara Instal
 7. aktifkan XAMPP anda lalu buka mozila firefox atau microsoft edge lalu paste kan link berikut http://localhost/phpmyadmin/
 8. Buat databse dengan nama 153_086_uasga
 9. lalu buat table nya dengan nama studio contoh table yang ada pada gambar table studio
-10. ![Screenshot (11)](https://user-images.githubusercontent.com/107969169/174938120-c2dfa08c-35c1-4493-9d6d-5f712847b37e.png)
+10. ![Screenshot (10)](https://user-images.githubusercontent.com/107969169/174938126-0c40ea76-d771-4059-a4c5-c7a2a9705494.png)
 11. lalu buat table baru lagi dengan nama user contoh table yang ada pada gambar table user
-12. ![Screenshot (10)](https://user-images.githubusercontent.com/107969169/174938126-0c40ea76-d771-4059-a4c5-c7a2a9705494.png)
+12. ![Screenshot (11)](https://user-images.githubusercontent.com/107969169/174938120-c2dfa08c-35c1-4493-9d6d-5f712847b37e.png)
 13. Input table user seperti gambar table di bawah ini
 14. ![Screenshot (12)](https://user-images.githubusercontent.com/107969169/174939873-fd7cca03-5e80-4b0a-9f09-9cf4504b6388.png)
 15. setelah databse dan table di buat copy link http://localhost/153_086_uasgawebapp/admin/login.php   -> Enter!
