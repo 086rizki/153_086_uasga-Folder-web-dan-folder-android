@@ -15,3 +15,8 @@ Cara Instal
 13. Input table user seperti gambar table di bawah ini
 14. ![Screenshot (12)](https://user-images.githubusercontent.com/107969169/174939873-fd7cca03-5e80-4b0a-9f09-9cf4504b6388.png)
 15. setelah databse dan table di buat copy link http://localhost/153_086_uasgawebapp/admin/login.php   -> Enter!
+![Screenshot (13)](https://user-images.githubusercontent.com/107969169/174945551-fa6619ca-abcb-4cd4-a744-b8a66baf54bd.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/107969169/174945539-0e3841e8-188a-47ed-a9ee-90479b5b3d49.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/107969169/174945546-86148e86-4076-4dec-9abb-737568ba1c78.png)
+https://user-images.githubusercontent.com/107969169/174945425-21065f23-0df2-4c36-8cc8-7f490a59c14f.mp4
+
