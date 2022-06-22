@@ -18,7 +18,5 @@ Cara Instal
 ![Screenshot (13)](https://user-images.githubusercontent.com/107969169/174945551-fa6619ca-abcb-4cd4-a744-b8a66baf54bd.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/107969169/174945539-0e3841e8-188a-47ed-a9ee-90479b5b3d49.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/107969169/174945546-86148e86-4076-4dec-9abb-737568ba1c78.png)
-https://user-images.githubusercontent.com/107969169/174947020-94dc5f7c-ffef-4510-ac54-60f2bf747f3c.mp4
-
 
 
